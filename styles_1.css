@@ -10458,7 +10458,7 @@ wpo-hero-slider-s4
     }
 }
 
-.wpo-event-section .wpo-event-wrap .col:nth-child(even) .wpo-event-item {
+/* .wpo-event-section .wpo-event-wrap .col:nth-child(even) .wpo-event-item {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -10519,7 +10519,7 @@ wpo-hero-slider-s4
         border-top: 4px solid #EEE1DD;
         border-bottom: 0;
     }
-}
+} */
 
 /* 6.8 wpo-partners-section-s3 */
 .wpo-partners-section-s3 {
